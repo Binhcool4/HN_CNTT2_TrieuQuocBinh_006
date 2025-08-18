@@ -265,3 +265,5 @@ function main() {
         }
     }
 }
+
+main();
