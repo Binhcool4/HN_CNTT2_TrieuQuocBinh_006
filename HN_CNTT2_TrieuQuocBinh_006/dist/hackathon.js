@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 class Audience {
     static nextId = 1;
     id;
@@ -267,3 +265,4 @@ function main() {
     }
 }
 main();
+
